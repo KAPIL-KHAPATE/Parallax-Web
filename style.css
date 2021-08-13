@@ -1,0 +1,63 @@
+body, html{
+    height: 100%;
+    font-size: 16px;
+    font-family: "Lato", sans-serif;
+    margin: 0;
+    font-size: 20px;
+    color: #666;
+}
+
+
+.img1,.img2, .img3{
+position: relative;
+opacity: 0.8;
+background-attachment: fixed;
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+.img1{
+background-image: url(wp4989660-cybertruck-tesla-wallpapers.jpg);
+min-height: 100%;
+
+}
+.img2{
+    background-image: url(michael-dziedzic-ir5gC4hlqT0-unsplash.jpg);
+    min-height: 500px;
+}
+.img3{
+    background-image: url(image.jpg);
+    min-height: 500px;
+}
+
+.h1{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center; 
+    color: white;
+    font-size: 50px;
+    letter-spacing: 8px;
+    
+}
+.ex{
+    position: absolute;
+    top: 30%;
+    width: 100%;
+    text-align: center; 
+    color: white;
+    font-size: 50px;
+    letter-spacing: 8px;
+}
+.imp{
+    background-color: black;
+    padding: 20px;
+
+}
+.section1{
+    text-align: center;
+    padding: 60px 80px;
+    background-color: black;
+    color: blanchedalmond;
+}
